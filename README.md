@@ -1,10 +1,11 @@
-🚴‍♂️ Bike Rentals Prediction 
-📌 Overview
+**🚴‍♂️ Bike Rentals Prediction **
+
+**📌 Overview**
 
 This project demonstrates how temperature affects bike rentals using Linear Regression and Polynomial Regression (degree=2).
 The goal is to compare the performance of both models and visualize the relationship between temperature and rentals.
 
-📂 Dataset
+**📂 Dataset**
 
 File: bike_poly.csv
 
@@ -14,7 +15,7 @@ temperature → Independent variable
 
 rentals → Target variable (number of bike rentals)
 
-🛠️ Libraries Used
+**🛠️ Libraries Used**
 
 pandas – Data handling
 
@@ -24,7 +25,7 @@ matplotlib – Data visualization
 
 scikit-learn – Machine learning models & evaluation
 
-📊 Workflow
+**📊 Workflow**
 
 Load dataset (bike_poly.csv)
 
@@ -36,7 +37,7 @@ Evaluate using R² Score and RMSE
 
 Visualize actual data vs predictions
 
-📷 Visualization
+**📷 Visualization**
 
 Blue dots → Actual data
 
