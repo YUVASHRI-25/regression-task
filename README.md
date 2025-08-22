@@ -1,4 +1,4 @@
-**🚴‍♂️ Bike Rentals Prediction **
+**🚴‍♂️ Bike Rentals Prediction**
 
 **📌 Overview**
 
